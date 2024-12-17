@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TPimageHEMBERT</string>
+    <string name="image_uri">Image URI</string>
+    <string name="greyscale">Transformer en niveau de gris</string>
+    <string name="invert">Inverser les couleurs</string>
+    <string name="horizontal_mirror">Mirroir horizontal</string>
+    <string name="vertical_mirror">Mirroir vertical</string>
+    <string name="rotation_right">Rotation horaire</string>
+    <string name="rotation_left">Rotation anti-horaire</string>
+</resources>
